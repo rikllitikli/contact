@@ -72,6 +72,7 @@
 .contact_country {
     font-size: 23px;
     color: white;
+    line-height: 32px;
     max-width: 182px;
     background-color: #d3b000;
     padding: 33px 32px;
@@ -156,4 +157,5 @@ footer {
     font-family: 'Open Sans';
     font-weight: 300;
 }
+
 
